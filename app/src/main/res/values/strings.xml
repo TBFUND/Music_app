@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Gospel Hymn Book</string>
+    <string name="adaptive_banner_ad_unit_id">ca-app-pub-4638659268383684/7117061200</string>
+    <string name="admob_app_id">ca-app-pub-4638659268383684~8331243986</string>
+    <string name="adaptive_banner_ad_unit_id2">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_app_id3">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_interstitial">ca-app-pub-4638659268383684/5764127689</string>
+</resources>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.myapplication">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+            android:hardwareAccelerated="false"
+            android:allowBackup="true"
+            android:icon="@mipmap/logo11"
+            android:label="@string/app_name"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <meta-data
+                android:name="android.support.Parent_Activity"
+                android:value="com.example.MainActivity"/>
+        <activity android:name=".M50"
+            android:label="M1"
+            android:parentActivityName=".Index">
+
+        </activity >
+
+        <activity android:name=".M49" android:label="M1"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M48" android:label="M1"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M47" android:label="M1"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M46" android:label="M1"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M45" android:label="M1"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M44" android:label="M1"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M43" android:label="M1"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M42" android:label="M1"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M41" android:label="Seeking the Lost"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M40" android:label="Redeemed, How I Love to Procliam it"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M39" android:label=" Savior, like a shepherd Lead Us"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M38" android:label=" Precious Memories"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M37" android:label="Just As I Am"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M36" android:label="There Is a Fountain"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M35" android:label="Up from the Grave He Arose"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M34" android:label="The Lord's My Shepherd"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M33" android:label="When the Roll Is Called Up Yonder"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M32" android:label="Jesus, Savior, Pilot Me"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M31" android:label=" Jesus Paid It All"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".Contactus" android:label="Jesus, Rose Of Sharon"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".Aboutus" android:label=" Jesus Loves Me"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M30" android:label="The Christian Life"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M29" android:label=" It Is Well with My Soul"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M28" android:label=" I Surrender All"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M27" android:label="I Stand Amazed"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M26" android:label=" Is My Name Written There?"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M25" android:label=" I Sing the Almighty of God"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M24" android:label="In the Garden"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".M23" android:label="I Need Thee Every Hour"
+                  android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M22"
+                android:label="I Come to the Garden Alone"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M21"
+                android:label="I Am Resolved"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M20"
+                android:label="Holy,Holy,Holy"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M19"
+                android:label="His Grace Now Reaches Me"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M18"
+                android:label="Hiding in Thee"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M17"
+                android:label=" Happy Am I Along the Way"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M16"
+                android:label="Halleluyah! We Shall Rise"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M15"
+                android:label="Fairst Lord Jesus"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M14"
+                android:label="All the Way Savoir Leads Me"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M13"
+                android:label="Come, Thou Fount of Every Blessing"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M12"
+                android:label="Come, Thou Almighty King"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M11"
+                android:label="My Hope Is Built on Nothing Less"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M10"
+                android:label="Abide With Me"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M9"
+                android:label="A Beautiful Life"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M8"
+                android:label="O How I Love Jesus"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M7"
+                android:label="Nearer,My God,to Thee"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M6"
+                android:label="On Jordan's Stormy Banks"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M5"
+                android:label="Living For Jesus"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M4"
+                android:label="Is it for Me"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M3"
+                android:label="His Eye Is On the Sparrow"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M2"
+                android:label="Higher Ground"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity
+                android:name=".M1"
+                android:label=" All the Way Savior Leads Me"
+                android:parentActivityName=".Index">
+            <meta-data
+                    android:name="android.support.Parent_Activity"
+                    android:value="com.example.MainActivity"/>
+        </activity>
+        <activity android:name=".Index">
+        </activity>
+        <activity android:name=".Search">
+        </activity>
+
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name=".MainActivity"
+                android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <meta-data
+                android:name="com.google.android.gms.ads.APPLICATION_ID"
+                android:value="@string/admob_app_id3"/>
+    </application>
+
+</manifest>
